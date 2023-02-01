@@ -94,3 +94,23 @@ h1{
     margin: 0;
     padding: 0;
 }
+.testimonial-container{
+    display: flex;
+    justify-content: center;
+}
+.testimonial-width{
+    /* width: 25%; */
+    padding: 5% 10%;
+}
+.testimonial-width h2{
+    font-size: 48px;
+    font-weight: 800;
+    color: #18191F;
+    padding: 0;
+    margin: 0;
+}
+.testimonial-width p{
+    font-size: 16px;
+    font-weight: 300;
+    color: #18191F;
+}
