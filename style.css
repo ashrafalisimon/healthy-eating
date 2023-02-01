@@ -114,3 +114,20 @@ h1{
     font-weight: 300;
     color: #18191F;
 }
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 100px 0;
+}
+footer h3{
+    font-size: 30px;
+    font-weight: 900;
+    color: #5B5B5B;
+    padding: 0;
+    margin: 0;
+}
+footer p{
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+}
